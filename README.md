@@ -1,6 +1,7 @@
 # Calci_App
 Simple Calculator App made with HTML, CSS And JavaScript
-![image](https://github.com/Sunnyilluminati/Calci_App/assets/148005101/492c0d3f-7447-479f-ac16-ba488cf0fbb5)
+![image](https://github.com/Sunnyilluminati/Calci_App/assets/148005101/ded1dbfd-d729-4c39-94b1-97ebee85742b)
+
 
 
 I will show you how to make a calculator using JavaScript, HTML & CSS. I.e. will share the source code of JavaScript calculator. This is very simple but useful program.
